@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Trilogy Image Tales of Graal tilt 300dpi.jpg
       altText: Fun feature preview
     badge:
       type: Badge
