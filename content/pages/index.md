@@ -22,7 +22,7 @@ sections:
       url: 'https://vimeo.com/1036817316?ts=0&share=copy'
       autoplay: true
       loop: true
-      muted: false
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
